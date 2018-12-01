@@ -1,2 +1,2 @@
 # csci2916
-Dan basketball player
+Daniel school
